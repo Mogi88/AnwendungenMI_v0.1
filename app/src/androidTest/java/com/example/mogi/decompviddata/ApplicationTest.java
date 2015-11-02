@@ -11,5 +11,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         super(Application.class);
         DecompMP4Data decomp = new DecompMP4Data();
         // a new comment
+        // another comment
     }
 }
