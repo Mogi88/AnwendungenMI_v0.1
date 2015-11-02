@@ -8,5 +8,5 @@ import android.media.MediaCodec;
 
 public class DecompMP4Data {
 
-
+    private String attribute = "an attribute";
 }
