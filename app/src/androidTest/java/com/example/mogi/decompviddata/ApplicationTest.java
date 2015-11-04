@@ -13,5 +13,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         // a new comment
         // another comment
         // third comment
+        // some comment
     }
 }
